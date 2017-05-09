@@ -1,6 +1,6 @@
 # Spring Data REST Example - ip2nation web service
 
-This is a sample project that uses Spring Data for its hypermedia-driven REST web services. It includes a basic security configuration, a sample controller for custom web services and H2 for the database. The webservice is used for checking the country of an IP address.
+This is a sample project that uses Spring Data for its hypermedia-driven REST web services. It includes a basic security configuration, a sample controller for custom web services. The webservice is used for checking the country of an IP address. The project's data is taken from ip2nation.com
 
 
 ### Deployment
